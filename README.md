@@ -5,6 +5,3 @@
 - 🌱 I’m currently learning C#, React and PostgreSQL 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
-
-www.linkedin.com/in/timo-vilen-446062178
-
