@@ -1,7 +1,7 @@
 ### My name is Timo and I´m here to kick ass and chew bubblegum... And I'm all out of bubblegum
 
 
-- 🔭 I’m currently working on another calculator - this time windows calculator with gui.
-- 🌱 I’m currently learning C#, React and PostgreSQL 
+- 🔭 I'm working currently with [this](https://github.com/solita/dev-academy-2021)
+- 🌱 I’m currently learning python and React 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
+- ⚡ Fun fact: Cherophobia is an irrational fear of fun or happiness.
