@@ -1,7 +1,7 @@
 ### My name is Timo and I´m here to kick ass and chew bubblegum... And I'm all out of bubblegum
 
 
-- 🔭 I'm working currently with [this](https://github.com/solita/dev-academy-2021)
-- 🌱 I’m currently learning python and React 
+- 🔭 I'm working currently with Android application for one of my courses.
+- 🌱 I’m currently learning Java, Git and Qt.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Cherophobia is an irrational fear of fun or happiness.
+- ⚡ Fun fact: About 90% of the World’s Currency Only Exists on Computers
