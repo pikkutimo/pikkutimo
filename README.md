@@ -1,7 +1,7 @@
 ### My name is Timo and I´m here to kick ass and chew bubblegum... And I'm all out of bubblegum
 
 
-- 🔭 I'm working currently with Android application for one of my courses.
-- 🌱 I’m currently learning Java, Git and Qt.
+- 🔭 I'm working currently with the React Native app and C++ app from my courses.
+- 🌱 I’m currently learning React, React Native...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: About 90% of the World’s Currency Only Exists on Computers
+- ⚡ Fun fact: In one year, a human heart would pump enough blood to fill an Olympic size pool
