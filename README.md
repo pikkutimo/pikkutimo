@@ -1,4 +1,4 @@
-### My name is Timo and I´m here to kick ass and chew bubblegum... And I'm all out of bubblegum
+### My name is Vilén, Timo Vilén.
 
 
 - 🔭 I'm working on Solita Dev Academy exercise for 2022
