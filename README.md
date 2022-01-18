@@ -1,7 +1,7 @@
 ### My name is Vilén, Timo Vilén.
 
 
-- 🔭 I'm working on Solita Dev Academy exercise for 2022
-- 🌱 I’m currently learning Express, React, PostgreSQL
+- 🔭 I'm working on my thesis for Tampere University of Applied Sciences
+- 🌱 I’m currently learning Express, RPA, MongoDB
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In 1936, [the Russians made a computer that ran on water](https://en.wikipedia.org/wiki/Water_integrator)
+- ⚡ Fun fact: [Chewing gum helps you concentrate for longer](https://www.sciencedaily.com/releases/2013/03/130308093933.htm)
