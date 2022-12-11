@@ -1,7 +1,7 @@
 ### My name is Vilén, Timo Vilén.
 
 
-- 🔭 I just received my Bachelor of Engineering degree from Tampere University of Applied Sciences
-- 🌱 I’m currently refreshing my C-skills, and getting jiggy with Oracle Cloud
+- 🔭 I just signed my first contract, and I'm starting in the new position next month
+- 🌱 I’m currently refreshing my SQL-skills,  and getting jiggy with Oracle Cloud
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: [Launch code for US nukes was 00000000 (eight 0’s). Is that for real? Well, yes, so we should feel that we were lucky enough that no “terrorist” did try launching the nuclear missiles,  one of the interesting technology facts you will not find anywhere on the Internet.](https://arstechnica.com/tech-policy/2013/12/launch-code-for-us-nukes-was-00000000-for-20-years/)
+- ⚡ Fun fact: [ILOVEYOU, sometimes referred to as Love Bug or Love Letter for you, is a computer worm that infected over ten million Windows personal computers on and after 5 May 2000. The outbreak was later estimated to have caused US$5.5–8.7 billion in damages worldwide, and estimated to cost US$10–15 billion to remove the worm.](https://en.wikipedia.org/wiki/ILOVEYOU)
